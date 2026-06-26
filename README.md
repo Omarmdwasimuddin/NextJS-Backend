@@ -16,6 +16,7 @@
 #### Class 13: [NextJS API---> Header, Cookies](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Header-Cookies)
 #### Class 14: [NextJS API---> Response Method](https://github.com/Omarmdwasimuddin/NextJS-API-Response-Method)
 #### Class 15: [NextJS API---> Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Proxy)
+#### Class 16: [NextJS API---> Working With Proxy Path](https://github.com/Omarmdwasimuddin/NextJS-API-Proxy-path)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
