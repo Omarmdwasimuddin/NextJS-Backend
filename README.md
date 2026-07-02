@@ -30,6 +30,7 @@
 #### Class 26: [NextJS API---> Insert Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Insert-Operation)
 #### Class 27: [NextJS API---> Update & Delete Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Update-Delete-Operation)
 #### Class 28: [NextJS API---> Prisma Query Operations](https://github.com/Omarmdwasimuddin/NextJS-API-Prisma-Find)
+#### Class 29: [NextJS API---> Aggregate & GroupBy](https://github.com/Omarmdwasimuddin/NextJS-API-aggregate-groupBy)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
