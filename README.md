@@ -1,5 +1,6 @@
 ## NextJS Backend
 
+### Prisma
 #### Class 01: [Prisma Connect with PrismaDB for NextJS](https://github.com/Omarmdwasimuddin/Prisma-Install-with-NextJs-PrismaDB)
 #### Class 02: [Prisma Connect with NeonDB for NextJS](https://github.com/Omarmdwasimuddin/Prisma-Install-with-NextJs-NeonDB)
 #### Class 03: [Prisma Connect with Supabase for NextJS](https://github.com/Omarmdwasimuddin/Prisma-Connect-with-Supabase-for-NextJS)
@@ -11,6 +12,8 @@
 #### Class 09: [Prisma-Schema-One-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-Many-Relation)
 #### Class 10: [Prisma-Schema-Many-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-Many-to-Many-Relation)
 ---
+
+### API
 #### Class 11: [NextJS API---> Request Method](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Method)
 #### Class 12: [NextJs API---> Params, Body, FormData](https://github.com/Omarmdwasimuddin/NextJs-API-Params-Body-FormData)
 #### Class 13: [NextJS API---> Header, Cookies](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Header-Cookies)
@@ -27,6 +30,8 @@
 #### Class 24: [NextJS API–--> Verify JWT Token Using Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Verify-JWT-Token-Using-Proxy)
 #### Class 25: [NextJS API---> Passing JWT Verification Identity from Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Passing-JWT-Verification-Identity-from-Proxy)
 ---
+
+### Prisma Operations
 #### Class 26: [NextJS API---> Insert Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Insert-Operation)
 #### Class 27: [NextJS API---> Update & Delete Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Update-Delete-Operation)
 #### Class 28: [NextJS API---> Prisma Query Operations](https://github.com/Omarmdwasimuddin/NextJS-API-Prisma-Find)
@@ -37,5 +42,6 @@
 #### Class 33: [NextJS API---> Transactions & Rollback](https://github.com/Omarmdwasimuddin/NextJS-API-Transactions-and-Rollback)
 #### Class 34: [NextJS API---> Comparison Operators](https://github.com/Omarmdwasimuddin/NextJS-API-Comparison-Operators)
 ---
+
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
