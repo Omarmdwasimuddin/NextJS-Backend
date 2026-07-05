@@ -34,6 +34,7 @@
 #### Class 30: [NextJS API---> Pagination](https://github.com/Omarmdwasimuddin/NextJS-API-Pagination)
 #### Class 31: [NextJS API---> Log, Time, Calculation](https://github.com/Omarmdwasimuddin/NextJS-API-Log-Time-Calculation)
 #### Class 32: [NextJS API---> Prisma raw query](https://github.com/Omarmdwasimuddin/NextJS-API-Prisma-Raw-Query)
+#### Class 33: [NextJS API---> Transactions & Rollback](https://github.com/Omarmdwasimuddin/NextJS-API-Transactions-and-Rollback)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
