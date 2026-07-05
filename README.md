@@ -1,4 +1,4 @@
-## Prisma
+## NextJS Backend
 
 #### Class 01: [Prisma Connect with PrismaDB for NextJS](https://github.com/Omarmdwasimuddin/Prisma-Install-with-NextJs-PrismaDB)
 #### Class 02: [Prisma Connect with NeonDB for NextJS](https://github.com/Omarmdwasimuddin/Prisma-Install-with-NextJs-NeonDB)
