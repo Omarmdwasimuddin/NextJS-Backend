@@ -46,7 +46,7 @@
 ---
 
 ### Payment Gateway
-#### Class 37: []()
+#### Class 37: [SSL Commerz Payment Method](https://github.com/Omarmdwasimuddin/SSL-Commerz-Payment-Method.png)
 ---
 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
