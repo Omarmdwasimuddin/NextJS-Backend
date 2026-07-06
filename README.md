@@ -42,7 +42,7 @@
 #### Class 33: [NextJS API---> Transactions & Rollback](https://github.com/Omarmdwasimuddin/NextJS-API-Transactions-and-Rollback)
 #### Class 34: [NextJS API---> Prisma Filtering with Comparison Operators](https://github.com/Omarmdwasimuddin/NextJS-API-Comparison-Operators)
 #### Class 35: [NextJS API---> Logical Operators](https://github.com/Omarmdwasimuddin/NextJS-API-Logical-Operators)
-#### Class 36: []()
+#### Class 36: [NextJS API---> Date](https://github.com/Omarmdwasimuddin/NextJS-API-Date)
 ---
 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
