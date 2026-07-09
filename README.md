@@ -49,5 +49,7 @@
 #### Class 37: [SSL Commerz Payment Method](https://github.com/Omarmdwasimuddin/SSL-Commerz-Payment-Method)
 ---
 
+### Production Level Code
+#### Class : [NextJS Logger](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
