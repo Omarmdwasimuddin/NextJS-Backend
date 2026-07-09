@@ -51,5 +51,6 @@
 
 ### Production Level Code
 #### Class : [NextJS API---> Logger](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
+#### Class : [NextJS API---> Zod](https://github.com/Omarmdwasimuddin/NextJS-API-Zod) 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
