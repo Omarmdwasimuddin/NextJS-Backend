@@ -50,6 +50,6 @@
 ---
 
 ### Production Level Code
-#### Class : [NextJS Logger](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
+#### Class : [NextJS API---> Logger](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
