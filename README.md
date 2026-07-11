@@ -51,6 +51,7 @@
 
 ### Production Level Code
 #### Class : [Next.js API: Logging and Error Handling](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
+#### Class : [Next.js API: Prisma error handle](https://github.com/Omarmdwasimuddin/NextJS-API-Prisma-Error-Handle)
 #### Class : [Next.js API: Zod Validation](https://github.com/Omarmdwasimuddin/NextJS-API-Zod) 
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
