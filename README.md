@@ -45,10 +45,6 @@
 #### Class 36: [NextJS API---> Date](https://github.com/Omarmdwasimuddin/NextJS-API-Date)
 ---
 
-### Payment Gateway
-#### Class 37: [SSL Commerz Payment Method](https://github.com/Omarmdwasimuddin/SSL-Commerz-Payment-Method)
----
-
 ### Production Level Code
 #### Class : [Next.js API: Logging and Error Handling](https://github.com/Omarmdwasimuddin/NextJS-Logger) 
 #### Class : [Next.js API: Prisma error handle](https://github.com/Omarmdwasimuddin/NextJS-API-Prisma-Error-Handle)
@@ -63,3 +59,9 @@
 
 ---
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
+
+---
+
+### Payment Gateway
+#### Class 37: [SSL Commerz Payment Method](https://github.com/Omarmdwasimuddin/SSL-Commerz-Payment-Method)
+---
