@@ -58,6 +58,7 @@
 
 ---
 #### Class : [Authentication Approaches in Web Applications](https://github.com/Omarmdwasimuddin/NextJS-API-Authentication)
+#### Class : [NextJS API: Rate limit](https://github.com/Omarmdwasimuddin/NextJS-API-Rate-Limit)
 #### Class : [Next.js API: Production-Level Signup & Login (Cookie-based JWT authentication)](https://github.com/Omarmdwasimuddin/NextJS-API-Production-Level-Signup-Login) 
 
 ---
