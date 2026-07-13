@@ -57,7 +57,7 @@
 #### Class : [Next.js API: Password Hashing with Argon2id](https://github.com/Omarmdwasimuddin/NextJS-API-Argon2id)
 
 ---
-#### Class : [Next.js API: Production-Level Signup & Login](https://github.com/Omarmdwasimuddin/NextJS-API-Production-Level-Signup-Login) 
+#### Class : [Next.js API: Production-Level Signup & Login (Cookie-based JWT authentication)](https://github.com/Omarmdwasimuddin/NextJS-API-Production-Level-Signup-Login) 
 
 ---
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
