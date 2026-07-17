@@ -57,6 +57,7 @@
 #### Class : [NextJS API: Rate limit](https://github.com/Omarmdwasimuddin/NextJS-API-Rate-Limit)
 #### Class : [NextJS API: Resend Email](https://github.com/Omarmdwasimuddin/NextJS-API-Resend-Email)
 #### Class : [NextJS API: CSRF (Cross-Site Request Forgery) Protection](https://github.com/Omarmdwasimuddin/NextJS-API-CSRF--Cross-Site-Request-Forgery--Protection)
+#### Class : [NextJS API: Account-lockout](https://github.com/Omarmdwasimuddin/NextJS-API-Account-lockout)
 #### Class : [Next.js API: Production-Level Signup & Login (Cookie-based JWT authentication)](https://github.com/Omarmdwasimuddin/NextJS-API-Production-Level-Signup-Login) 
 
 ---
