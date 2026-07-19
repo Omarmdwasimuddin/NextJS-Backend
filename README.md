@@ -51,7 +51,7 @@
 #### Class : [Production-Ready Next.js API Route](https://github.com/Omarmdwasimuddin/NextJS-API-ProductionExample-route)
 #### Class : [Next.js API: Zod Validation](https://github.com/Omarmdwasimuddin/NextJS-API-Zod)
 #### Class : [Next.js API: Password Hashing with Argon2id](https://github.com/Omarmdwasimuddin/NextJS-API-Argon2id)
-
+#### Class : [Next.js API: Password Hashing with bcrypt](https://github.com/Omarmdwasimuddin/NextJS-API-bcrypt)
 ---
 #### Class : [Authentication Approaches in Web Applications](https://github.com/Omarmdwasimuddin/NextJS-API-Authentication)
 #### Class : [NextJS API: Rate limit](https://github.com/Omarmdwasimuddin/NextJS-API-Rate-Limit)
